@@ -68,8 +68,8 @@
 ## 💾 실습 코드
 | 파일명 | 설명 |
 |--------|------|
-| [RFID_ReadTagID.ino](/src/RFID_ReaDTagID.ino) | RFID 카드 ID 읽기 코드 |
-| [RFID_Servo.ino](/src/RFID_Servo.ino) | 차단기 제어 코드 |
+| [RFID_ReadTagID.ino](./src/RFID_ReaDTagID/RFID_ReaDTagID.ino) | RFID 카드 ID 읽기 코드 |
+| [RFID_Servo.ino](./src/RFID_Servo/RFID_Servo.ino) | 차단기 제어 코드 |
 
 ## 💻 주요 함수 설명
 1. `rfid.PICC_IsNewCardPresent()`
